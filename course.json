@@ -1,0 +1,33 @@
+{
+  "course_id": "ICB-F05",
+  "repository": "icb-f05-skills-language-101-frameworks-taxonomies-levels",
+  "repository_url": "https://github.com/ICoBC/icb-f05-skills-language-101-frameworks-taxonomies-levels",
+  "title": "Skills Language 101: Frameworks, Taxonomies and Levels",
+  "subtitle": "How skills are named and levelled, and why shared language makes credentials portable.",
+  "version": "1.0.0",
+  "series": "Foundation",
+  "skill": "Skills taxonomies and alignment",
+  "level": "1",
+  "level_name": "Contribute",
+  "stage": "K",
+  "stage_name": "Knowledge",
+  "alignment_code": "ICSF-SKTX-L1-K",
+  "badge_name": "Skills Language 101: Frameworks, Taxonomies and Levels (Knowledge, L1)",
+  "hours": "2.5",
+  "language": "en-GB",
+  "licence": "CC BY 4.0",
+  "licensor": "International Council on Badges and Credentials e.V.",
+  "web": "https://academy.icobc.net/courses/icb-f05/",
+  "parts": [
+    "About this course",
+    "Why shared skills language matters",
+    "Taxonomies, frameworks and their purposes",
+    "Reading ESCO and SFIA",
+    "Levels: complexity of learning and responsibility at work",
+    "Good and weak skill statements",
+    "Assessment and badge",
+    "Sources and further reading"
+  ],
+  "final_questions": 12,
+  "practice_questions": 21
+}
